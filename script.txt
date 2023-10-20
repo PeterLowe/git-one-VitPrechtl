@@ -1,0 +1,2 @@
+Git guide
+By Vit Prechtl
